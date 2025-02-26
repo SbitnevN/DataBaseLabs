@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|g:\\c# iha\\wpfapprpg-20250219t035337z-001\\wpfapprpg\\wpfapprpg\\playerpersonedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\playerpersonedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|g:\\c# iha\\wpfapprpg-20250219t035337z-001\\wpfapprpg\\wpfapprpg\\playerpersonsaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\playerpersonsaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\wpfapprpg\\playerpersonsaddview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\playerpersonsaddview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|g:\\c# iha\\wpfapprpg-20250219t035337z-001\\wpfapprpg\\wpfapprpg\\playerpersonedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\playerpersonedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\wpfapprpg\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|g:\\c# iha\\wpfapprpg-20250219t035337z-001\\wpfapprpg\\wpfapprpg\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\wpfapprpg\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\wpfapprpg\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE2342DD-9F77-4999-B648-EE314E5D2343}|WpfAppRPG\\WpfAppRPG.csproj|solutionrelative:wpfapprpg\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerPersonEdit.xaml.cs",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonEdit.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppRPG\\PlayerPersonEdit.xaml.cs",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonEdit.xaml.cs",
+              "RelativeToolTip": "WpfAppRPG\\PlayerPersonEdit.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:30:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerPersonEdit.xaml",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonEdit.xaml",
+              "RelativeDocumentMoniker": "WpfAppRPG\\PlayerPersonEdit.xaml",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonEdit.xaml",
+              "RelativeToolTip": "WpfAppRPG\\PlayerPersonEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T04:29:17.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerPersonsAddView.xaml.cs",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonsAddView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppRPG\\PlayerPersonsAddView.xaml.cs",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonsAddView.xaml.cs",
+              "RelativeToolTip": "WpfAppRPG\\PlayerPersonsAddView.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwG0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:22:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\User.cs",
+              "RelativeDocumentMoniker": "WpfAppRPG\\User.cs",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\User.cs",
+              "RelativeToolTip": "WpfAppRPG\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:26:08.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerPersonsAddView.xaml",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonsAddView.xaml",
+              "RelativeDocumentMoniker": "WpfAppRPG\\PlayerPersonsAddView.xaml",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\PlayerPersonsAddView.xaml",
+              "RelativeToolTip": "WpfAppRPG\\PlayerPersonsAddView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T04:10:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppRPG\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppRPG\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:45:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\Person.cs",
+              "RelativeDocumentMoniker": "WpfAppRPG\\Person.cs",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\Person.cs",
+              "RelativeToolTip": "WpfAppRPG\\Person.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:06:57.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppRPG\\MainWindow.xaml",
+              "ToolTip": "G:\\C# iha\\WpfAppRPG-20250219T035337Z-001\\WpfAppRPG\\WpfAppRPG\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppRPG\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T04:45:04.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
