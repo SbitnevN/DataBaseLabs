@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfAppRPG.PlayerPersonEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppRPG"
+        mc:Ignorable="d"
+        Title="PlayerPersonEdit" Height="250" Width="400">
+    <Grid>
+        <TextBox Name="textBoxNickname" HorizontalAlignment="Left" Margin="40,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="textBoxLevel" HorizontalAlignment="Left" Margin="40,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="textBoxRace" HorizontalAlignment="Left" Margin="40,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="textBoxGender" HorizontalAlignment="Left" Margin="40,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nickname" HorizontalAlignment="Left" Margin="165,20,0,0" VerticalAlignment="Top"/>
+        <Label Content="Level" HorizontalAlignment="Left" Margin="165,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Race" HorizontalAlignment="Left" Margin="165,105,0,0" VerticalAlignment="Top"/>
+        <Label Content="Gender" HorizontalAlignment="Left" Margin="165,146,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="idLabel" Content="" HorizontalAlignment="Left" Margin="40,173,0,0" VerticalAlignment="Top"/>
+        <Label Content="ID_Player" HorizontalAlignment="Left" Margin="165,172,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="buttonEdit" Content="Edit" HorizontalAlignment="Left" Margin="285,176,0,0" VerticalAlignment="Top" Click="EditClick"/>
+        <Button x:Name="buttonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="332,176,0,0" VerticalAlignment="Top" Click="CancelClick"/>
+
+    </Grid>
+</Window>

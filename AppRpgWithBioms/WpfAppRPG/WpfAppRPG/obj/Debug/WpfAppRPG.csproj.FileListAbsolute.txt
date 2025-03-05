@@ -1,0 +1,76 @@
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe.config
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.pdb
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.AssemblyReference.cache
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.g.cs
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\App.g.cs
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.cache
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.lref
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.baml
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.g.resources
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.Properties.Resources.resources
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.GenerateResource.cache
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.CoreCompileInputs.cache
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.exe
+C:\Users\MyasnikovAK\source\repos\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.pdb
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe.config
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.pdb
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.AssemblyReference.cache
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.g.cs
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonsAddView.g.cs
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\App.g.cs
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.cache
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.lref
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.baml
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonsAddView.baml
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.g.resources
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.Properties.Resources.resources
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.GenerateResource.cache
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.CoreCompileInputs.cache
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.exe
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.pdb
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonEdit.g.cs
+G:\C# iha\WpfAppRPG-20250219T035337Z-001\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonEdit.baml
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe.config
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.pdb
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonEdit.g.cs
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonsAddView.g.cs
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\App.g.cs
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.cache
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.lref
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.baml
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonEdit.baml
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonsAddView.baml
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.g.resources
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.Properties.Resources.resources
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.GenerateResource.cache
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.exe
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.pdb
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\LocationView.g.cs
+C:\Users\anton\Downloads\rpg\WpfAppRPG\WpfAppRPG\obj\Debug\LocationView.baml
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.AssemblyReference.cache
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\LocationView.g.cs
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.g.cs
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonEdit.g.cs
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonsAddView.g.cs
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\App.g.cs
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.cache
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG_MarkupCompile.lref
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.exe
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.pdb
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe.config
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.exe
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\bin\Debug\WpfAppRPG.pdb
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\LocationView.baml
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\MainWindow.baml
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonEdit.baml
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\PlayerPersonsAddView.baml
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.g.resources
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.Properties.Resources.resources
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.GenerateResource.cache
+D:\GitHub\DataBaseLabs\AppRpgWithBioms\WpfAppRPG\WpfAppRPG\obj\Debug\WpfAppRPG.csproj.CoreCompileInputs.cache
